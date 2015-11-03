@@ -1,0 +1,9 @@
+c:\users\ray\documents\visual studio 2015\Projects\cSharpToArduinoForm\cSharpToArduinoForm\bin\Debug\cSharpToArduinoForm.exe.config
+c:\users\ray\documents\visual studio 2015\Projects\cSharpToArduinoForm\cSharpToArduinoForm\bin\Debug\cSharpToArduinoForm.exe
+c:\users\ray\documents\visual studio 2015\Projects\cSharpToArduinoForm\cSharpToArduinoForm\bin\Debug\cSharpToArduinoForm.pdb
+c:\users\ray\documents\visual studio 2015\Projects\cSharpToArduinoForm\cSharpToArduinoForm\obj\Debug\cSharpToArduinoForm.csprojResolveAssemblyReference.cache
+c:\users\ray\documents\visual studio 2015\Projects\cSharpToArduinoForm\cSharpToArduinoForm\obj\Debug\cSharpToArduinoForm.Form1.resources
+c:\users\ray\documents\visual studio 2015\Projects\cSharpToArduinoForm\cSharpToArduinoForm\obj\Debug\cSharpToArduinoForm.Properties.Resources.resources
+c:\users\ray\documents\visual studio 2015\Projects\cSharpToArduinoForm\cSharpToArduinoForm\obj\Debug\cSharpToArduinoForm.csproj.GenerateResource.Cache
+c:\users\ray\documents\visual studio 2015\Projects\cSharpToArduinoForm\cSharpToArduinoForm\obj\Debug\cSharpToArduinoForm.exe
+c:\users\ray\documents\visual studio 2015\Projects\cSharpToArduinoForm\cSharpToArduinoForm\obj\Debug\cSharpToArduinoForm.pdb
